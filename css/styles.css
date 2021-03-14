@@ -1,0 +1,125 @@
+/* Tag Selector */
+
+body{
+  font-family: "Spartan";
+  font-size: 15px;
+}
+
+/* Class Selector */
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.bottom-content{
+  height: 300px;
+}
+
+.buyer{
+  padding-bottom: 20px;
+  color:hsl(333, 80%, 67%);
+}
+
+.client-comment{
+  padding-right: 50px;
+}
+
+.client-img{
+  border-radius: 100%;
+  float: left;
+  width: 15%;
+  margin-right: 30px;
+}
+
+.client-experience{
+  background-color: hsl(300, 43%, 22%);
+  color: hsl(0, 0%, 100%);
+  margin: 20px;
+  padding: 60px 0 40px 45px;
+  width: 30%;
+  position: relative;
+  background-image: url("../images/bg-pattern-bottom-desktop.svg");
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  line-height: 2;
+}
+
+.client-rates{
+  background-color: hsl(300, 24%, 96%);
+  color: hsl(300, 43%, 22%);
+  margin: 30px;
+  padding: 20px 0;
+  position: relative;
+  border-radius: 10px;
+  width: 600px;
+  font-weight: 700;
+}
+
+/* Client adjustments */
+.client-irene{
+  top: 20px;
+}
+
+.client-anne{
+  top: 40px;
+}
+
+.client-name{
+  font-weight: 700;
+}
+
+.container-fluid{
+  padding: 10%;
+  position: relative;
+}
+
+.head{
+  font-weight: 700;
+  padding-right: 150px;
+  color: hsl(300, 43%, 22%);
+  width: 500px;
+}
+
+.main-adv{
+  background-color: hsl(0, 0%, 100%);
+  background-image: url("../images/bg-pattern-top-desktop.svg");
+  background-repeat: no-repeat;
+  padding: 60px 100px 60px 20px;
+  width: 40%;
+}
+
+.main-adv p{
+  padding-right: 100px;
+}
+
+.main-content{
+  width: 550px;
+  line-height: 1.5;
+  padding-top: 10px;
+}
+
+.rates-container{
+  padding-top: 30px;
+}
+
+.stars{
+  padding: 0 40px 0 20px;
+}
+
+/* Rating adjustments */
+
+.review{
+  left: 80px;
+}
+
+.report{
+  left: 140px;
+}
+
+.tech{
+  left: 200px;
+}
